@@ -1,6 +1,6 @@
 # Testing Documentation
 
-This directory contains automated tests for the MBTQ Universe deaf-first platform APIs.
+This directory contains automated tests for the deaf-first platform APIs.
 
 ## Test Structure
 
