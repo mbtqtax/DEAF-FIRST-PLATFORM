@@ -71,7 +71,7 @@ describe('OpenAPI Specifications', () => {
       
       it('should have consistent base URL pattern', () => {
         const baseUrl = spec.servers[0].url;
-        expect(baseUrl).toContain('api.mbtquniverse.com');
+        expect(baseUrl).toContain('api.vr4deaf.org');
       });
     });
   });
