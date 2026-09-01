@@ -65,7 +65,7 @@ app.post('/api/generate', (req, res) => {
 });
 
 app.post('/api/analyze/accessibility', (req, res) => {
-  const { content, contentType = 'text' } = req.body;
+  const { contentType = 'text' } = req.body;
   
   res.json({
     success: true,
