@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "@apidevtools/swagger-parser": "^10.1.0",
-    "@openapitools/openapi-generator-cli": "^2.18.4",
+    "@openapitools/openapi-generator-cli": "^2.41.0",
     "@types/node": "^22.10.2",
     "axios": "^1.6.0",
     "concurrently": "^9.1.0",
