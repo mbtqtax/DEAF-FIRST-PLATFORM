@@ -78,7 +78,7 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
   try {
     switch (name) {
       case 'sync_data': {
-        const { channel, data } = SyncDataSchema.parse(args);
+        const { channel } = SyncDataSchema.parse(args);
         return {
           content: [
             {
