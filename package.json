@@ -52,7 +52,7 @@
     "husky": "^9.0.11",
     "lint-staged": "^15.2.0",
     "path-to-regexp": "^8.4.1",
-    "prettier": "^3.4.2",
+    "prettier": "^3.9.6",
     "tar": "^7.5.13",
     "typescript": "^5.7.2",
     "vite": "^8.0.8",
