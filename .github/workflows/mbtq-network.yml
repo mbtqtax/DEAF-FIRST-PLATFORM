@@ -229,3 +229,4 @@ EOF
           curl -sf https://trust.mbtq.dev/mesh/status \
             --max-time 10 | jq . >> $GITHUB_STEP_SUMMARY || \
             echo "Mesh endpoint pending deployment"
+ 

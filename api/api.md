@@ -725,3 +725,4 @@ MIT License - see LICENSE file for details
 - MCP server
 - Real-time synchronization
 - Sign language support
+ 
