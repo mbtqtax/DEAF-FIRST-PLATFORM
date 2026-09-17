@@ -79,7 +79,7 @@
     "mcp-server"
   ],
   "dependencies": {
-    "bcrypt": "^5.1.1"
+    "bcrypt": "^6.0.0"
   },
   "overrides": {
     "@mapbox/node-pre-gyp": "^2.0.0-rc.0",
